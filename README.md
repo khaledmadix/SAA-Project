@@ -1,9 +1,6 @@
 
 
-
-![Uploading Screenshot 2025-06-01 195744.png…]()
-
-
+![3 tier app](https://github.com/user-attachments/assets/7413429e-bea2-4e1a-b528-6e122c3826ea)
 
 
 
@@ -48,8 +45,13 @@ Databases and caches are isolated in private subnets for enhanced security.
 EC2 instances and ALB are in public subnets for user accessibility.
 
 # 📈 High Availability Features
-Redundant setup across Availability Zone 1 & 2.
+Redundant setup across Availability Zone 1 & 2.    
 
 Auto Scaling ensures the app scales up/down based on demand.
 
 All tiers are fault-tolerant and scalable.
+
+
+# Manara AWS SAA Project
+Done by Khaled Madi 
+khaledmadi40@gmail.com
